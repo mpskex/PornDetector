@@ -1,3 +1,14 @@
 #   Igonore Obj Files
 *.o
 *.out
+
+#   Ignore Image Files
+*.bmp
+*.jpg
+*.png
+
+#   Ignore Python runtimes
+*.pyc
+
+#   Ignore Mac Datastore Files
+.DS_Store
